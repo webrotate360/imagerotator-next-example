@@ -1,0 +1,19 @@
+{
+  "name": "@webrotate360/imagerotator-next-example",
+  "version": "1.0.0",
+  "description": "Example integration of WebRotate 360 Product Viewer Runtime in Next.js",
+  "author": "WebRotate 360 LLC",
+  "license": "See license in EULA.pdf",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@webrotate360/imagerotator": "^5.0.1",
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
